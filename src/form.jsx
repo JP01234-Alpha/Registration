@@ -15,7 +15,7 @@ function Form() {
         e.preventDefault();
         if(!inputData.name || !inputData.email || !inputData.password)
         {
-            alert("all feilds are mandotory")
+            alert("all feilds are mandotory dumbass")
         }
         else{
             setflag(true);
